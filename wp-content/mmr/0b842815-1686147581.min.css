@@ -4620,7 +4620,7 @@ body.home .fullpage-scroll .fp-section {
 
 .img-cover {
     position: absolute;
-    width: 100%;
+    width: 107%;
     -o-object-fit: cover;
     object-fit: cover;
     border-radius: inherit

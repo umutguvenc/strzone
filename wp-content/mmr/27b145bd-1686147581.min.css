@@ -4966,9 +4966,10 @@ body.home .fullpage-scroll .fp-section {
 }
 
 .header__logo-inner {
-    width: 180%;
-    height: 422%;
-    -webkit-filter: invert(100%);
+    width: 72%;
+    height: 170%;
+    -webkit-filter: grayscale(20%) invert(100%);
+
 }
 
 @media (hover:hover) {
